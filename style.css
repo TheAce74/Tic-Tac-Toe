@@ -22,6 +22,7 @@ body {
 
 button {
   color: inherit;
+  outline: none;
 }
 
 /* Loader */
