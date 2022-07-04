@@ -178,6 +178,7 @@ h1 > span:nth-of-type(3) {
   flex-basis: 70%;
   text-align: center;
   border-collapse: collapse;
+  table-layout: fixed;
   font-size: 5vmin;
 }
 
