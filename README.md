@@ -48,4 +48,4 @@ Simple Tic Tac Toe game
 
 
 
-Attain inner peace ✌️ - https://tic-tac-toe-by-the-ace.netlify.app/
+Attain inner peace ✌️
